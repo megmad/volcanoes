@@ -1,1 +1,32 @@
+body {
+  background-image: url(mainvolcano.JPG);
+  background-size: 630px
+}
+img {
+  width: 400px
+    
+}
 
+h1 {
+  background-color: bisque;
+  font-family: fantasy;
+  text-shadow: 2px 2px #bb6006
+}
+
+h3 {
+  color: #94663a;
+  font-style: oblique;
+  background-color: antiquewhite
+}
+
+ol {
+  color: cornsilk
+}
+
+p {
+  color: firebrick
+}
+
+h6 {
+  background-color: azure
+}
